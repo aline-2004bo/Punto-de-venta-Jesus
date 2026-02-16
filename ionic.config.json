@@ -1,0 +1,7 @@
+{
+  "name": "cliente-tienda",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
